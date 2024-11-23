@@ -13,3 +13,4 @@ internal class CreateProductCommandHandler: IRequestHandler<CreateProductCommand
         throw new NotImplementedException();
     }
 }
+ 
